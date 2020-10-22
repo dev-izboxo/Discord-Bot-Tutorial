@@ -1,3 +1,3 @@
 # Discord-Bot-Tutorial
 
-xd
+https://repl.it/github/dev-izboxo/Discord-Bot-Tutorial
